@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_aboutme"
+            android:icon="@drawable/ic_about_me"
+            android:title="About Me" />
+        <item
+            android:id="@+id/nav_favfruit"
+            android:icon="@drawable/ic_favorite_fruit"
+            android:title="My Fav Fruits" />
+        <item
+            android:id="@+id/nav_favbook"
+            android:icon="@drawable/ic_favorite_book"
+            android:title="My Fav Books" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+    <item android:title="Return">
+        <menu>
+            <item
+                android:id="@+id/nav_returnmain"
+                android:icon="@drawable/ic_main_menu"
+                android:title="Main Menu" />
+        </menu>
+    </item>
+
+</menu>

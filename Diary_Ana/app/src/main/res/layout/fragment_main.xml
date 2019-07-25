@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnAboutMe"
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@color/button_aboutMe"
+        android:onClick="openAboutMe"
+        android:text="@string/about_me"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnFavFruit"
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="240dp"
+        android:background="@color/button_favFrits"
+        android:onClick="openFavFruit"
+        android:text="@string/my_fav_fruits"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnFavBook"
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="170dp"
+        android:background="@color/button_favBooks"
+        android:onClick="openFavBook"
+        android:text="@string/my_fav_books"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+</RelativeLayout>

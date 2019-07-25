@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ana Mendes</string>
+    <string name="nav_header_subtitle">acdesouzamendes@student.rtc.edu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_me">About Me</string>
+    <string name="my_fav_fruits">My Fav Fruits</string>
+    <string name="my_fav_books">My Fav Books</string>
+    <string name="top_text_about">
+        <b>Name:</b>\n
+        \u0020\u0020\u0020Ana Mendes
+        <b>Birthdate:</b>\n
+        \u0020\u0020\u0020Aug 27, 1992
+        <b>Nationality:</b>\n
+        \u0020\u0020\u0020Brazilian
+    </string>
+    <string name="bottom_text_about">
+        \u0020\u0020\u0020I like pets (cats, dogs, unicorns, elephants, but not snakes *cleaning throat suggestively and looking at Jensine*).\n
+        \u0020\u0020\u0020Check the other pages to find out my favorite fruits and books. :P
+    </string>
+    <string name="picture_of_ana">Picture of Ana</string>
+    <string name="fruit_name">Persimmon</string>
+    <string name="btnFruit_text">Click to see my favorite Fruits Name</string>
+    <string name="picture_of_fruit">Picture of Fruit</string>
+    <string name="picture_of_book">Picture of Book</string>
+    <string name="book_title">Text</string>
+</resources>

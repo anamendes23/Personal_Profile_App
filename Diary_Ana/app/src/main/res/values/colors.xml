@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8b64d1</color>
+    <color name="colorPrimaryDark">#5b3c90</color>
+    <color name="colorAccent">#da4b7f</color>
+    <color name="return_button">#e77ca3</color>
+    <color name="background_color">#cec7ca</color>
+    <color name="button_aboutMe">#8156cf</color>
+    <color name="button_favFrits">#9d7bd9</color>
+    <color name="button_favBooks">#bea6e9</color>
+</resources>
